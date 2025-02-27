@@ -146,6 +146,23 @@ footer h2{
     .btn{
         display: none;
     }
+    .menu{
+        flex-wrap: wrap;
+    }
+    .start{flex-wrap: wrap;
+    }
+    .tech{flex-wrap: wrap;
+    }
+    .service{flex-wrap: wrap;
+    }
+    .about{flex-wrap: wrap;
+    }
+    .pro{flex-wrap: wrap;
+    }
+    .projects{flex-wrap: wrap;
+    }
+    .contact{flex-wrap: wrap;
+    }
 }
 .menu ul{
     -ms-flex-direction: column;

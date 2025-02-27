@@ -157,6 +157,8 @@ footer h2{
     }
     .about{flex-wrap: wrap;
     }
+    .bio{flex-wrap: wrap;
+    }
     .pro{flex-wrap: wrap;
     }
     .projects{flex-wrap: wrap;
